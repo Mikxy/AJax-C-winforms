@@ -1,0 +1,14 @@
+C:\Users\mikxy\Desktop\AJax\AJax\obj\Release\AJax.Properties.Resources.resources
+C:\Users\mikxy\Desktop\AJax\AJax\obj\Release\AJax.csproj.GenerateResource.cache
+C:\Users\mikxy\Desktop\AJax\AJax\obj\Release\AJax.csproj.CoreCompileInputs.cache
+C:\Users\mikxy\Desktop\AJax.exe.config
+C:\Users\mikxy\Desktop\AJax\AJax\obj\Release\AJax.exe
+C:\Users\mikxy\Desktop\AJax\AJax\obj\Release\AJax.pdb
+C:\Users\mikxy\Desktop\AJax.exe
+C:\Users\mikxy\Desktop\AJax.pdb
+C:\Users\mikxy\Desktop\AJax\AJax\obj\Release\AJax.csprojAssemblyReference.cache
+C:\Users\mikxy\Desktop\AJax\AJax\obj\Release\AJax.csproj.CopyComplete
+C:\Users\mikxy\Desktop\Stuff\Games\Roblox\Synapse\AJax.exe.config
+C:\Users\mikxy\Desktop\Stuff\Games\Roblox\Synapse\AJax.exe
+C:\Users\mikxy\Desktop\Stuff\Games\Roblox\Synapse\AJax.pdb
+C:\Users\mikxy\Desktop\AJax\AJax\obj\Release\AJax.AJax.resources

@@ -1,0 +1,10 @@
+C:\Users\mikxy\Desktop\AJax\AJax\bin\Debug\AJax.exe.config
+C:\Users\mikxy\Desktop\AJax\AJax\bin\Debug\AJax.exe
+C:\Users\mikxy\Desktop\AJax\AJax\bin\Debug\AJax.pdb
+C:\Users\mikxy\Desktop\AJax\AJax\obj\Debug\AJax.csprojAssemblyReference.cache
+C:\Users\mikxy\Desktop\AJax\AJax\obj\Debug\AJax.Form1.resources
+C:\Users\mikxy\Desktop\AJax\AJax\obj\Debug\AJax.Properties.Resources.resources
+C:\Users\mikxy\Desktop\AJax\AJax\obj\Debug\AJax.csproj.GenerateResource.cache
+C:\Users\mikxy\Desktop\AJax\AJax\obj\Debug\AJax.csproj.CoreCompileInputs.cache
+C:\Users\mikxy\Desktop\AJax\AJax\obj\Debug\AJax.exe
+C:\Users\mikxy\Desktop\AJax\AJax\obj\Debug\AJax.pdb
